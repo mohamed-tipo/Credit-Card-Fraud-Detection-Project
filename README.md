@@ -1,6 +1,6 @@
 Credit-Card-Fraud-Detection-Project
 
-This project focuses on building a machine learning model to detect fraudulent credit card transactions. With financial security being a top priority for both customers and credit card companies, identifying potential fraud early can prevent unauthorized charges and mitigate risks.
+This project focuses on building a machine-learning model to detect fraudulent credit card transactions. With financial security being a top priority for both customers and credit card companies, identifying potential fraud early can prevent unauthorized charges and mitigate risks.
 
 Project Overview
 
@@ -13,3 +13,10 @@ Data Preprocessing: Addressing class imbalance and scaling features appropriatel
 Modeling Techniques: Using various algorithms optimized for detecting the minority class.
 
 Evaluation Metrics: Focusing on metrics like Area Under Precision-Recall Curve (AUPRC), Precision, Recall, and F1-score to accurately assess fraud detection performance.
+
+
+To highlight the large dataset in your repository, you could add a section like this in your README file:
+
+Dataset Size
+This project uses a large dataset containing 284,807 records with 30 features. Given its size, efficient data handling, and processing steps, including feature engineering and model optimization, are applied to ensure scalability and performance.
+link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
