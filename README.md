@@ -9,5 +9,7 @@ The dataset used includes credit card transactions from European cardholders ove
 Key Highlights
 
 Data Preprocessing: Addressing class imbalance and scaling features appropriately.
+
 Modeling Techniques: Using various algorithms optimized for detecting the minority class.
+
 Evaluation Metrics: Focusing on metrics like Area Under Precision-Recall Curve (AUPRC), Precision, Recall, and F1-score to accurately assess fraud detection performance.
